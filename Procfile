@@ -1,0 +1,1 @@
+web: gunicorn confessionApp.wsgi --log-file -
